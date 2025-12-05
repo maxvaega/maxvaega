@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center" style="font-size:4em">skillkit</h1>
+<h1 align="center" style="font-size:4em"><a href="https://github.com/maxvaega/skillkit">skillkit</a></h1>
 </div>
 <p align="center" style="max-width:80%; margin-bottom:40px">Enables Anthropic's Agent Skills functionality to any python agent, unleashing LLM-powered agents to <b>autonomously discover and utilize packaged expertise</b> in a token-efficient way.
 skillkit is compatible with existings skills (SKILL.md), so you can browse and use any skill available on the web</p>
